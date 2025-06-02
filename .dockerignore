@@ -1,0 +1,15 @@
+# Archivos y directorios a ignorar en Docker build
+.git
+.gitignore
+.DS_Store
+*.pyc
+__pycache__/
+.pytest_cache/
+.coverage
+*.log
+*.tmp
+.vscode/
+.idea/
+README.md
+LICENSE
+docs/
